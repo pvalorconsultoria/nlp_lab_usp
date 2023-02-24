@@ -14,7 +14,7 @@ A democratização da tecnologia de IA tem sido um dos principais focos da comun
 
 ## Modelo de Linguagem para o Portuchinês
 
-Neste exemplo, vamos refinar o modelo de linguagem [bert-base-chinese](https://huggingface.co/bert-base-chinese), um modelo de linguagem baseado em atenção em grandes corpos de texto escritos em mandarim, e adaptá-lo ao idioma criado para o ensino de mandarim para falantes de português - o portuchinês :)
+Neste exemplo, vamos refinar o modelo de linguagem [bert-base-chinese](https://huggingface.co/bert-base-chinese), um modelo de linguagem baseado em atenção em grandes corpos de texto escritos em mandarim, e adaptá-lo ao idioma criado para o ensino de mandarim para falantes de português - o [portuchinês](https://github.com/pvalorconsultoria/nlp_lab_usp/blob/main/Portuchin%C3%AAs.pdf) :)
 
 Como visto no site da hugging-face, o modelo bert-base-chinese é baseado no modelo [BERT original](https://huggingface.co/bert-base-uncased), mas foi adaptado para entender melhor o texto chinês. Isso torna mais fácil para os desenvolvedores criar modelos que possam processar com precisão o texto chinês e gerar resultados significativos. Esse modelo tem sido usado em várias aplicações, como classificação de texto, resposta a perguntas e análise de sentimentos, etc.
 
