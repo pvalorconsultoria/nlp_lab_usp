@@ -20,4 +20,4 @@ Como visto no site da hugging-face, o modelo bert-base-chinese é baseado no mod
 
 No nosso caso, vamos criar um dataset sintético do portuchinês e adaptar esse grande modelo de linguagem em mandarim para essa língua construída. Assim, esperamos que esse pequeno novo modelo de linguagem seja capaz de entender a gramática do portuchinês, emprestada do mandarim, mas também introduzir palavras em português em seu vocabulário.
 
-Outro experimento interessante é saber se o modelo que foi treinado em grandes volumes de texto do mandarim seria capaz de expandir as capacidades do portuchincês. Isto é, certas regras gramáticas que estão bastante presentes no mandarim seriam automaticamente aprendidas sem que haja exemplos no dataset sintético criado para o exemplo xD.
+Outro experimento interessante é saber se o modelo que foi treinado em grandes volumes de texto do mandarim seria capaz de expandir as capacidades do portuchinês. Isto é, certas regras gramáticas que estão bastante presentes no mandarim seriam automaticamente aprendidas sem que haja exemplos no dataset sintético criado para o exemplo xD.
